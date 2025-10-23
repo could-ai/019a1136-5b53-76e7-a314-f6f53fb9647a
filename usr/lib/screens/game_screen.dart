@@ -32,8 +32,8 @@ class _GameScreenState extends State<GameScreen> {
           explanation: 'Débito representa entrada de recursos, como receitas.',
         ),
         Question(
-          question: 'Balanceie: Receitas $ 1000, Despesas $ 800. Lucro?',
-          options: ['$ 200', '$ 1200', '$ 800'],
+          question: 'Balanceie: Receitas \$ 1000, Despesas \$ 800. Lucro?',
+          options: ['\$ 200', '\$ 1200', '\$ 800'],
           correctAnswer: 0,
           explanation: 'Lucro = Receitas - Despesas = 1000 - 800 = 200.',
         ),
